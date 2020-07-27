@@ -73,8 +73,8 @@ The analysis of PyBer ride sharing services was performed on dataset for a four-
 >**The Average Fare per Driver Results**
 >
 >If we compare the average fare per driver between each city type, we we will notice that the average number of rides in the **urban** cities is about `3.3` and `2.4` times lower than rural and suburban cities, respectively. The results are as follows: 
->- Rural: `55.49` averaage drivers, 
->- Suburban: `39.50` averaage drivers, and 
+>- Rural: `55.49` average drivers, 
+>- Suburban: `39.50` average drivers, and 
 >- Urban:  `16.57` average drivers
 >
 >The average fares per driver by city type was computed by dividing the **sum of all the fares** by the **total drivers**. Please see image below for code:
