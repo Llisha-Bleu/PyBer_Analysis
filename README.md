@@ -90,7 +90,7 @@ The analysis of PyBer ride sharing services was performed on dataset for a four-
 >Though, urban city type is observed to having the lowest among the three as it relates to average fare per ride and driver, we can also observe that it too has the highest ride and driver volumes which indicates that this city type is the most profitable (over time - see chart below) of them all. This is also backed up by the total fares in the the summary table below which shows the urban city type generating a total revenue of `$39,854.38` USD. 
 >
 >
->**Table showing the Summary table city type from the Terminal:**
+>**Table showing the Summary table by city type from the Terminal:**
 >
 >![total_fare_by_city_type](./Resources/total_fare_by_city_type.png)
 >
